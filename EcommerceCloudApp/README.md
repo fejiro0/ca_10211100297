@@ -108,7 +108,7 @@ cd Famous_Akpovogbeta_10211100297_EcommerceApp/EcommerceCloudApp
    Create a `.env` file in the project root with the following variables:
    ```env
    # Database Configuration
-   DATABASE_URL="mongodb+srv://username:password@cluster.mongodb.net/gomart?retryWrites=true&w=majority"
+   DATABASE_URL="Create a PERSONAL MONGOdb URL"
    
    # JWT Secret (Change in production - use a strong random string)
    JWT_SECRET="your-super-secret-jwt-key-change-in-production"
