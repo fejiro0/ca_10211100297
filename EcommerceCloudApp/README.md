@@ -1,6 +1,6 @@
 # 🛒 GoMart - Ghana's Premier E-commerce Platform
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-GoMart-blue?style=flat-square&logo=github)](https://github.com/fejiro0/Famous_Akpovogbeta_10211100297_EcommerceApp.git)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-GoMart-blue?style=flat-square&logo=github)](https://github.com/fejiro0/ca_10211100297.git)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)](https://mongodb.com/)
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -11,7 +11,7 @@ GoMart is an innovative, comprehensive e-commerce platform designed specifically
 
 ## 📁 Repository Information
 
-**Repository:** [GoMart E-commerce App](https://github.com/fejiro0/Famous_Akpovogbeta_10211100297_EcommerceApp.git)  
+**Repository:** [GoMart E-commerce App](https://github.com/fejiro0/ca_10211100297.git)  
 **Technology:** Full-stack JavaScript (Node.js + Next.js)  
 **Database:** MongoDB Atlas with Prisma ORM
 
@@ -93,8 +93,8 @@ EcommerceCloudApp/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/fejiro0/Famous_Akpovogbeta_10211100297_EcommerceApp.git
-cd Famous_Akpovogbeta_10211100297_EcommerceApp/EcommerceCloudApp
+git clone https://github.com/fejiro0/ca_10211100297.git
+cd ca_10211100297/EcommerceCloudApp
 ```
 
 ### Project Setup
